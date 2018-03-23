@@ -5,7 +5,7 @@ Examples how to use slicing with strings in Python
 [1] Valentyn N Sichkar. Slicing in Python // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Slicing_in_Python (date of access: XX.XX.XXXX)
 
 ## Description
-Program shows ways how to slice string in Python.
+Program shows ways how to slice strings in Python.
 
 ## Multiplication Table
 ![Results](images/Slicing_in_Python.png)
