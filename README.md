@@ -7,7 +7,7 @@ Examples how to use slicing with strings in Python
 ## Description
 Program shows ways how to slice strings in Python.
 
-## Multiplication Table
+## Results of slicing
 ![Results](images/Slicing_in_Python.png)
 
 ## MIT License
