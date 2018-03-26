@@ -8,7 +8,7 @@ Examples how to use Slicing with Strings in Python
 Program shows ways how to Slice Strings in Python.
 
 ## Results of slicing
-![Results](images/Slicing_in_Python.png)
+![Slicing_in_Python](images/Slicing_in_Python.png)
 
 ## MIT License
 ## Copyright (c) 2018 Valentyn N Sichkar
